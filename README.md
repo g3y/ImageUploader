@@ -18,9 +18,9 @@
 
 ## Examples
 
-![Website](.github/screenshot.png)
+![Website](heyo/screenshot.png)
 
-![Discord Embed](.github/discord.png)
+![Discord Embed](heyo/discord.png)
 
 ### Built With
 
