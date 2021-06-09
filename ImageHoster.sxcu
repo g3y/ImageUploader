@@ -1,0 +1,12 @@
+{
+  "Name": "ImageHoster",
+  "DestinationType": "ImageUploader",
+  "RequestType": "POST",
+  "RequestURL": "http://YOUR_DOMAIN/upload",
+  "FileFormName": "sharex",
+  "Headers": {
+    "key": "87d807cfcaaf380142bf449729c38df1:cf33d24b2f83"
+  },
+  "ResponseType": "Text",
+  "URL": "https://YOUR_DOMAIN/$json:url$"
+}
