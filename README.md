@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple steps.
    npm start
    ```
 6. ShareX Setup
-   1. Edit `ImageUploader.sxcu` to include the key you set in `.env` and your domain.
+   1. Edit `ImageHoster.sxcu` to include the key you set in `.env` and your domain.
    2. Open the file with ShareX and select "Yes" to use it as your image uploader.
 
 <!-- LICENSE -->
