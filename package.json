@@ -1,5 +1,5 @@
 {
-  "name": "imagewebserver",
+  "name": "ImageUploader",
   "version": "1.0.0",
   "description": "Share images",
   "main": "index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/N0ahMC/ImageWebServer.git"
+    "url": "git+https://github.com/RealParrot/ImageUploader.git"
   },
   "keywords": [
     "sharex"
   ],
-  "author": "N0ahMC",
+  "author": "RealParrot",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/N0ahMC/ImageWebServer/issues"
+    "url": "https://github.com/RealParrot/ImageUploader/issues"
   },
-  "homepage": "https://github.com/N0ahMC/ImageWebServer#readme",
+  "homepage": "https://github.com/RealParrot/ImmageUploader#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.6",
